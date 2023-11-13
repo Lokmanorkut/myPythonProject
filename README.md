@@ -1,1 +1,3 @@
 # myPythonProject
+
+•Bu Proje benim şu ana kadar pythonda neler öğrendiğimi karışık bir şekilde sunduğum bir repodur ilerleyen süreçte düzenli ve estetik hale getireceğim...
