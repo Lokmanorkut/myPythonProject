@@ -1,0 +1,7 @@
+(12,131414,12413,"aqw",intereseting)
+
+ogrenci={
+    "numara":120,
+    "ad":"ahmet",
+    "soyad":"yılmaz"
+}
